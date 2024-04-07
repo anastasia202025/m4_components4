@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Homework04</string>
+    <string name="user_name_hint">Введите имя</string>
+    <string name="user_name_border_hint">Имя пользователя</string>
+    <string name="user_phone_number">Телефон</string>
+    <string name="gender">Пол</string>
+    <string name="gender_female">Женский</string>
+    <string name="gender_male">Мужской</string>
+    <string name="notifications">Получать уведомления</string>
+    <string name="authorizes_on_device">Об авторизации на устройстве</string>
+    <string name="new_products">О новинках и предложениях</string>
+    <string name="points">Баллы:</string>
+    <string name="actual_points">44 / 100</string>
+    <string name="save">Сохранить</string>
+</resources>
